@@ -26,7 +26,7 @@ import com.codename1.ui.plaf.Style;
  * the user to rate the app. If rating is low asks the user to provide feedback, if the rating is high asks the user 
  * to rate in the appstore.
  *
- * @author Shai Almog
+ * @author feriel
  */
 public class RatingWidget {
     private static RatingWidget instance;

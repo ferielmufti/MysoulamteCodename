@@ -10,6 +10,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 
 public class Note_1 implements Externalizable {
     private static ArrayList<Note_1> notes;

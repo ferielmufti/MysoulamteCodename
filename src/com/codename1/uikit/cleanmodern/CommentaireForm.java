@@ -41,7 +41,7 @@ import java.util.Map;
 /**
  * Hand coded edit "form" that allows editing a specific note
  *
- * @author Shai Almog
+ * @author feriel
  */
 public class CommentaireForm extends Form {
     private static final String[] COLORS = { 
@@ -127,7 +127,8 @@ public class CommentaireForm extends Form {
             if(isNew) {
                 if(Dialog.show("Save Changes", "", "Yes", "No")) {
                    
-                req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/2?contenu_com=" + body.getText());
+                req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/4?contenu_com=" + body.getText());
+                //req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/"+ c.getId_pub() +"/?contenu_com=" + body.getText());
                 c.saveCommentaire();
                    parentForm.addCommentaire(c);
                 req.addResponseListener(new ActionListener<NetworkEvent>()

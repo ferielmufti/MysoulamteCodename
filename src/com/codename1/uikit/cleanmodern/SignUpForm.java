@@ -16,7 +16,7 @@ import com.codename1.ui.util.Resources;
 /**
  * Signup UI
  *
- * @author Shai Almog
+ * @author feriel
  */
 public class SignUpForm extends BaseForm {
 

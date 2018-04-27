@@ -14,7 +14,13 @@ import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.ui.layouts.FlowLayout;
 import com.codename1.ui.util.Resources;
 
-
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 
 public class ActivateForm extends BaseForm {
 

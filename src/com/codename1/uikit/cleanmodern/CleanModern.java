@@ -8,7 +8,13 @@ import com.codename1.ui.plaf.UIManager;
 import com.codename1.ui.util.Resources;
 import com.codename1.ui.Toolbar;
 
-
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 
 public class CleanModern {
 

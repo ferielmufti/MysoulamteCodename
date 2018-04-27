@@ -9,6 +9,11 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/**
+ * 
+ *
+ * @author feriel
+ */
 
 public class Note implements Externalizable {
     private static ArrayList<Note> notes;

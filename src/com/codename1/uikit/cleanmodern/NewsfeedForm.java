@@ -49,10 +49,11 @@ import java.util.Map;
 import javafx.scene.image.ImageView;
 
 /**
- * The newsfeed form
+ * 
  *
- * @author Shai Almog
+ * @author feriel
  */
+
 public class NewsfeedForm extends BaseForm {
  String id;
  public static int idpub;

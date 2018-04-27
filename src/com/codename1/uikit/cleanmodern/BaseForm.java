@@ -14,7 +14,13 @@ import com.codename1.ui.layouts.Layout;
 import com.codename1.ui.plaf.Style;
 import com.codename1.ui.util.Resources;
 
-
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 public class BaseForm extends Form {
 
     public BaseForm() {

@@ -10,7 +10,7 @@ import entities.User;
 
 /**
  *
- * @author reaper
+ * @author feriel
  */
 public class SessiionHandler {
     

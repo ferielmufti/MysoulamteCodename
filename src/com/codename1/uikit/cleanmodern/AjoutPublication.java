@@ -44,6 +44,13 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 
 public class AjoutPublication extends BaseForm  {
      private String appstoreUrl;

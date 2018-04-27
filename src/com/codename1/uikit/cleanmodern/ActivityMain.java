@@ -44,7 +44,13 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 public class ActivityMain extends BaseForm  {
      private String appstoreUrl;
        private static RatingWidget instance;

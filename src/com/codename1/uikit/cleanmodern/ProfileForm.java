@@ -18,6 +18,13 @@ import com.codename1.ui.layouts.LayeredLayout;
 import com.codename1.ui.plaf.Style;
 import com.codename1.ui.util.Resources;
 
+/**
+ * 
+ * 
+ * 
+ *
+ * @author feriel
+ */
 
 public class ProfileForm extends BaseForm {
 
