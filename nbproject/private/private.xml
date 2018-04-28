@@ -4,11 +4,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/utilisateur/NetBeansProjects/Mysoulamte/src/com/codename1/uikit/cleanmodern/NewsfeedForm.java</file>
-            <file>file:/Users/utilisateur/NetBeansProjects/Mysoulamte/src/com/codename1/uikit/cleanmodern/ActivityMain.java</file>
-            <file>file:/Users/utilisateur/NetBeansProjects/Mysoulamte/src/com/codename1/uikit/cleanmodern/AjoutPublication.java</file>
-            <file>file:/Users/utilisateur/NetBeansProjects/Mysoulamte/src/com/codename1/uikit/cleanmodern/SessiionHandler.java</file>
-            <file>file:/Users/utilisateur/NetBeansProjects/Mysoulamte/src/com/codename1/uikit/cleanmodern/CommentaireForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/BaseForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/SignInForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/SignUpForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/CleanModern.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/ProfileForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/RatingWidget.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/AjoutPublication.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/NewsfeedForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/WalkthruForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/Note_1.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/CommentaireForm.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/Note.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/SessiionHandler.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/ActivityMain.java</file>
+            <file>file:/C:/Users/feriel/Desktop/sprint%20mobile/Mysoulamte/src/com/codename1/uikit/cleanmodern/ActivateForm.java</file>
         </group>
     </open-files>
 </project-private>

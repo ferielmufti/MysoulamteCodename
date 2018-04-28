@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author MohamedKhyari
+ * @author feriel
  */
 public class User {
     private int id ;

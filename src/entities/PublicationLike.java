@@ -7,7 +7,7 @@ package entities;
 
 /**
  *
- * @author amira
+ * @author feriel
  */
 public class PublicationLike {
     

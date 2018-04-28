@@ -128,7 +128,7 @@ public class CommentaireForm extends Form {
                 if(Dialog.show("Save Changes", "", "Yes", "No")) {
                    
                 req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/4?contenu_com=" + body.getText());
-                //req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/"+ c.getId_pub() +"/?contenu_com=" + body.getText());
+                //req.setUrl("http://localhost/feriel/Admin/web/app_dev.php/ajoutMobile/"+ c.getId_pub() +"?contenu_com=" + body.getText());
                 c.saveCommentaire();
                    parentForm.addCommentaire(c);
                 req.addResponseListener(new ActionListener<NetworkEvent>()
